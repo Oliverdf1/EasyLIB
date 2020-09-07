@@ -1,4 +1,6 @@
 # EasyLIB
 EasyLIB libary
 
-Go to the README.md in the zip file to see more
+If you have git installed on your computer open unity and then click on the package manager. Then click the plus button. Then click git url and paste in this: 
+
+If you don't then install the .unitypackage file and then double click it and then click import.
